@@ -6,7 +6,8 @@ body {
 a {
   float: right;
   color: orange;
-  padding-left: 20px; }
+  padding-left: 20px;
+  text-decoration: none; }
 
 .main {
   height: 575px; }
