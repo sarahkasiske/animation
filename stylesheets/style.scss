@@ -8,8 +8,6 @@ a {
   float: right;
   color: orange;
   padding-left: 20px;
-  z-index: 100;
-
 }
 
 .scatterplot {
@@ -25,6 +23,7 @@ a {
 .align {
   width: 40%;
   float: left;
+  z-index: 100;
 }
 
 .wrapper {
@@ -35,6 +34,9 @@ a {
 }
 
 
+.spacing a {
+  margin-top: 575px;
+}
 
 #slide {
     position: absolute;

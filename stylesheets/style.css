@@ -6,8 +6,7 @@ body {
 a {
   float: right;
   color: orange;
-  padding-left: 20px;
-  z-index: 100; }
+  padding-left: 20px; }
 
 .scatterplot {
   width: 60%;
@@ -18,13 +17,17 @@ a {
 
 .align {
   width: 40%;
-  float: left; }
+  float: left;
+  z-index: 100; }
 
 .wrapper {
   position: relative;
   overflow: hidden;
   opacity: 0;
   animation: fadeIn ease-in 1; }
+
+.spacing a {
+  margin-top: 575px; }
 
 #slide {
   position: absolute;
