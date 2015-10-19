@@ -8,6 +8,9 @@ a {
   color: orange;
   padding-left: 20px; }
 
+.main {
+  height: 575px; }
+
 .scatterplot {
   width: 60%;
   float: right; }
@@ -26,15 +29,13 @@ a {
   opacity: 0;
   animation: fadeIn ease-in 1; }
 
-.spacing a {
-  margin-top: 575px; }
-
 #slide {
   position: absolute;
   left: -500px;
   -webkit-animation: slide 0.8s forwards;
   animation: slide 0.8s forwards;
-  width: 900px; }
+  width: 900px;
+  padding-left: 75px; }
 
 @keyframes slide {
   0% {
