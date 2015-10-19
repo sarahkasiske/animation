@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 606.6 230.6" style="enable-background:new 0 0 606.6 230.6;" xml:space="preserve">
+
+<style type="text/css">
+
+
+	.st0{fill:#6D6E70;}
+	.st1{font-family:'Lato-Regular';}
+	.st2{font-size:10.819px;}
+	.st3{fill:none;stroke:#D0D2D3;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#B1D5F1;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st7{fill:#26A9E0;}
+	.st8{fill:none;stroke:#26A9E0;stroke-miterlimit:10;}
+	.st9{font-size:10.9021px;}
+
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+    opacity:0;
+    animation:fadeIn ease-in 1;
+    animation-fill-mode:forwards;
+    animation-duration:2s;
+}
+
+.fade-in.bar1 {
+	animation-delay: .1s;
+}
+
+
+.fade-in.bar2 {
+	animation-delay: .9s;
+}
+
+.fade-in.bar3{
+	animation-delay: 1.8s;
+}
+
+.fade-in.bar4 {
+	animation-delay: 2.9s;
+}
+
+.fade-in.bar5 {
+	animation-delay: 3.5s;
+}
+
+</style>
+
+
+<text transform="matrix(1 -6.981420e-03 7.033814e-03 1.0077 525.4716 204.7875)" class="st0 st1 st2">150.0</text>
+<text transform="matrix(1 -6.981420e-03 7.033814e-03 1.0077 63.2218 208.0147)" class="st0 st1 st2">0.0</text>
+<text transform="matrix(1 -6.981420e-03 7.033814e-03 1.0077 175.65 207.2307)" class="st0 st1 st2">37.5</text>
+<text transform="matrix(1 -6.981420e-03 7.033814e-03 1.0077 294.3526 206.401)" class="st0 st1 st2">75.0</text>
+<text transform="matrix(1 -6.981420e-03 7.033814e-03 1.0077 406.7806 205.616)" class="st0 st1 st2">112.5</text>
+
+<line class="st3" x1="78" y1="192.2" x2="76.7" y2="10"/>
+<line class="st3" x1="196.7" y1="191.4" x2="195.4" y2="9.1"/>
+<line class="st3" x1="315.4" y1="190.6" x2="314.1" y2="8.3"/>
+<line class="st3" x1="434.1" y1="189.8" x2="432.8" y2="7.5"/>
+<path class="st4" d="M78,192.2L76.7,10L78,192.2z"/>
+<line class="st3" x1="77.8" y1="174" x2="552.6" y2="170.7"/>
+<line class="st3" x1="77.6" y1="137.6" x2="552.4" y2="134.2"/>
+<line class="st3" x1="77.3" y1="101.1" x2="552.1" y2="97.8"/>
+<line class="st3" x1="77.1" y1="64.6" x2="551.9" y2="61.3"/>
+<line class="st3" x1="76.8" y1="28.2" x2="551.6" y2="24.9"/>
+
+<rect x="76.8" y="18.5" class="st5 fade-in bar1" width="386.8" height="14.2"/>
+<rect x="77.1" y="55.2" class="st5 fade-in bar2" width="333.3" height="14.2"/>
+<rect x="77.3" y="92" class="st5 fade-in bar3" width="191.2" height="14.2"/>
+<rect x="77.6" y="130" class="st7 fade-in bar4" width="123.1" height="14.2"/>
+<rect x="77.4" y="165.8" class="st5 fade-in bar5 " width="82.1" height="14.2"/>
+
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 15.8996 175.1884)" class="st0 st1 st9">Corpus and</text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 35.4825 188.1341)" class="st0 st1 st9"> Uterus</text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 19.7909 133.0334)" class="st0 st1 st9">Colon and </text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 33.3135 146.0233)" class="st0 st1 st9">Rectum</text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 26.1866 96.5317)" class="st0 st1 st9">Lung and </text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 25.9513 109.6159)" class="st0 st1 st9">Bronchus</text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 28.4563 68.5623)" class="st0 st1 st9">Prostate</text>
+<text transform="matrix(1 -6.980089e-03 6.980089e-03 1 39.1389 32.5539)" class="st0 st1 st9">Breast</text>
+
+
+
+
+
+
+
+</svg>

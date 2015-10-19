@@ -1,0 +1,52 @@
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  float: right;
+  color: orange;
+  padding-left: 20px;
+  z-index: 100;
+
+}
+
+.scatterplot {
+  width: 60%;
+  float: right;
+
+}
+
+.sources{
+  font-size: 10px;
+}
+
+.align {
+  width: 40%;
+  float: left;
+}
+
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+    animation:fadeIn ease-in 1;
+}
+
+
+
+#slide {
+    position: absolute;
+    left: -500px;
+    -webkit-animation: slide 0.8s forwards;
+    animation: slide 0.8s forwards;
+    width: 900px;
+
+}
+
+@keyframes slide {
+    0% {opacity: 0;}
+
+    100% { left: 0; opacity: 1; }
+}
